@@ -22,7 +22,7 @@
 
 ## 全文
 
-[阅读全文 →](.ruchang/ruchang-full.md)
+[阅读全文 →](.ruchang-full.md)
 
 ## 閱讀與反饋
 
