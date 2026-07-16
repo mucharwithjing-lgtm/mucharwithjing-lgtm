@@ -1,16 +1,16 @@
-## Hi there 👋
+# 赵添欢 · Linlin Zhao
 
-<!--
-**mucharwithjing-lgtm/mucharwithjing-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+北京理工大学 · 德语系 24 级本科生  
+数字人文 · 德语文学 · 情感计算 · 神经科学  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**选择语言 / Choose Language / Sprache wählen**
+
+- [中文（繁體）](./pages/zh.md)
+- [English](./pages/en.md)
+- [Deutsch](./pages/de.md)
+
+---
+
+*Beijing, 2026*
