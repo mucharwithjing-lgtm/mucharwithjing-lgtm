@@ -59,7 +59,9 @@ Tagungsbeitrag auf dem 5. Nationalen Graduiertenforum "Word & World" der Renmin-
 > Ein privates Interesse — Einblicke willkommen.
 
 **Theaterstück *Ruchang* (Wie gewohnt)** — Erste Fassung abgeschlossen, Überarbeitung läuft.  
-**Theaterstück *Lian Kong* (Lotus, Himmel)** — Exposéphase.  
+[簡介 →](../creative/ruchang.md)
+
+**Theaterstück *Lian Kong* (Lotus)** — Exposéphase.  
 **Roman *Rendong, Yingchun* (Geißblatt, Winterjasmin)** — Neufassung.  
 **Essays** — In unregelmäßigen Abständen.
 
