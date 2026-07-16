@@ -44,7 +44,7 @@ A comparative analysis of *Leutnant Gustl* and *Der kurze Brief zum langen Absch
 
 ### Completed
 
-**Tie Ning's Reception in Smaller-Language Countries**  
+**Chinese Writer Tie Ning's Reception in Countries with Smaller Linguistic Communities**  
 Conference paper presented at the First Symposium on Overseas Dissemination of Chinese Culture and Mutual Learning of World Civilizations. BIT Innovation and Entrepreneurship Program.  
 [Details →](./tiening-overseas.md) (to be added)
 
