@@ -24,11 +24,11 @@ Fandom-Frau. KalHo only.
 
 **Mathematische Modellierung des *Faust***  
 Modellierung der narrativen Struktur von Goethes Versepos.  
-[Details →](./faust-modelling.md) (folgt)
+[Details →](../projects/faust-modelling.md) 
 
 **EEG-gestützte multimodale Sentimentanalyse**  
 Neurovalidierte EEG-multimodale Sentimentanalyse von depressionsassoziierten Vokabeln.  
-[Details →](./eeg-sentiment.md) (folgt)
+[Details →](../projects/emotion-corpus.md) 
 
 **Prosodische Merkmale und cross-linguale Sentimentanalyse**  
 Attributsbasierte Sentimentanalyse unter Einbeziehung prosodischer Merkmale und cross-lingualem Alignment.  
