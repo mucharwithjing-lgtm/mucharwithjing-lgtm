@@ -24,11 +24,11 @@ Fandom enthusiast. KalHo only.
 
 **Mathematical Modeling of *Faust***  
 Modeling the narrative structure of Goethe's epic poem.  
-[Details →](./faust-modelling.md) (to be added)
+[Details →](../projects/faust-modelling.md) 
 
 **EEG Multimodal Sentiment Analysis**  
 Neuro-validated EEG-based multimodal sentiment analysis examining affective features associated with depression-related vocabulary.  
-[Details →](./eeg-sentiment.md) (to be added)
+[Details →](../projects/emotion-corpus.md) (to be added)
 
 **Prosodic Features and Cross-Lingual Sentiment Analysis**  
 Attribute-level sentiment analysis integrating prosodic features and cross-lingual alignment.  
