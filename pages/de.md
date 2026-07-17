@@ -14,7 +14,6 @@ Meine Lieblingsphilosophin ist **Hannah Arendt**. Meine Lieblingsdichterin ist *
 
 In meiner Freizeit beschäftige ich mich mit Religionswissenschaft, griechischer Mythologie sowie moderner amerikanischer und lateinamerikanischer Lyrik und Prosa (mein Hauptgebiet bleibt aber die deutsche Literatur). Ich schreibe gern Kalligrafie. Musik: Lana Del Rey und französischer Chanson.
 
-Fandom-Frau. KalHo only.
 
 ---
 
