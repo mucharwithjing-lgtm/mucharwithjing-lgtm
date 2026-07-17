@@ -28,7 +28,7 @@ Modeling the narrative structure of Goethe's epic poem.
 
 **EEG Multimodal Sentiment Analysis**  
 Neuro-validated EEG-based multimodal sentiment analysis examining affective features associated with depression-related vocabulary.  
-[Details →](../projects/emotion-corpus.md) (to be added)
+[Details →](../projects/emotion-corpus.md) 
 
 **Prosodic Features and Cross-Lingual Sentiment Analysis**  
 Attribute-level sentiment analysis integrating prosodic features and cross-lingual alignment.  
