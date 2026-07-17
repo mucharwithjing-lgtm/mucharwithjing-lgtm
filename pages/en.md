@@ -60,7 +60,7 @@ Conference paper presented at the 5th National Undergraduate Forum "Word & World
 **Play *Ruchang* (As Usual)** — First draft completed, currently revising.  
 [簡介 →](../creative/ruchang.md)
 
-**Play *Lian Kong* (Lotus, Sky)** — Outline stage.  
+**Play *Lian Kong*** — Outline stage.  
 **Novel *Rendong, Yingchun* (Honeysuckle, Winter Jasmine)** — Rewriting.  
 **Essays** — Updated occasionally.
 
