@@ -14,7 +14,6 @@ My favorite philosopher is **Hannah Arendt**. My favorite poet is **Louise Glüc
 
 In my spare time, I study religious studies, Greek mythology, and modern American and Latin American poetry and fiction (though my primary field is German literature). I practice calligraphy. Musically, I listen to Lana Del Rey and French chanson.
 
-Fandom enthusiast. KalHo only.
 
 ---
 
