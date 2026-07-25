@@ -77,19 +77,6 @@
 
 ---
 
-## 论文全文
-
-[阅读全文 →](./faust-modelling-full.md)
-
----
-
-## 交互式模拟器
-
-[点击打开模拟器 →](./faust-simulator.html)
-
-（模拟器基于 ECharts 开发，可调节梅菲斯特开关、格雷琴风险敏感度、浮士德欲望放大率，实时观察两条曲线的演化轨迹与崩溃阈值。）
-
----
 
 ## 合作需求
 
@@ -157,19 +144,6 @@
 | 維度躍遷 | 格雷琴在牢獄中從世俗博弈切換至神性博弈的理性選擇 |
 | 反事實推演 | 移除梅菲斯特後，系統仍收斂至崩潰，證明悲劇的結構性根源 |
 
----
-
-## 論文全文
-
-[閱讀全文 →](./faust-modelling-full.md)
-
----
-
-## 交互式模擬器
-
-[點擊打開模擬器 →](./faust-simulator.html)
-
-（模擬器基於 ECharts 開發，可調節梅菲斯特開關、格雷琴風險敏感度、浮士德欲望放大率，即時觀察兩條曲線的演化軌跡與崩潰閾值。）
 
 ---
 
@@ -239,19 +213,6 @@ Zhao Tianhuan (Beijing Institute of Technology) · Wu Yuheng (Imperial College L
 | Dimensional leap | Gretchen's rational choice in the dungeon to switch from secular to divine game |
 | Counterfactual reasoning | System still converges to collapse without Mephistopheles, proving the structural origin of tragedy |
 
----
-
-## Full Paper
-
-[Read full paper →](./faust-modelling-full.md)
-
----
-
-## Interactive Simulator
-
-[Launch Simulator →](./faust-simulator.html)
-
-(The simulator is developed with ECharts. Users can adjust the Mephistopheles switch, Gretchen's risk sensitivity, and Faust's desire amplification, and observe the real-time evolution of the two curves and their collapse thresholds.)
 
 ---
 
@@ -321,19 +282,6 @@ Zhao Tianhuan (Beijing Institute of Technology) · Wu Yuheng (Imperial College L
 | Dimensionaler Sprung | Gretchens rationale Wahl im Kerker, vom weltlichen zum göttlichen Spiel zu wechseln |
 | Kontrafaktisches Denken | System konvergiert auch ohne Mephistopheles zum Kollaps, was die strukturelle Ursache der Tragödie belegt |
 
----
-
-## Volltext
-
-[Volltext lesen →](./faust-modelling-full.md)
-
----
-
-## Interaktiver Simulator
-
-[Simulator öffnen →](./faust-simulator.html)
-
-(Der Simulator wurde mit ECharts entwickelt. Nutzer können den Mephistopheles-Schalter, Gretchens Risikosensitivität und Fausts Begierdenverstärkung anpassen und die Echtzeitentwicklung der beiden Kurven sowie ihre Kollapsschwellen beobachten.)
 
 ---
 
