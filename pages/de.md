@@ -45,7 +45,7 @@ Eine vergleichende Studie von *Leutnant Gustl* und *Der kurze Brief zum langen A
 
 **Chinesische Schriftstellerin Tie Nings Rezeption in Ländern mit kleineren Sprachgemeinschaften**  
 Tagungsbeitrag auf dem Ersten Symposium zur Auslandsverbreitung der chinesischen Kultur und zum gegenseitigen Austausch der Weltzivilisationen. BIT Innovation and Entrepreneurship Program.  
-[Details →](./tiening-overseas.md) (folgt)
+[Details →](../projects/tiening-overseas.md) 
 
 **Der Liebesbegriff in Hannah Arendts Briefen**  
 Tagungsbeitrag auf dem 5. Nationalen Graduiertenforum "Word & World" der Renmin-Universität China.  
