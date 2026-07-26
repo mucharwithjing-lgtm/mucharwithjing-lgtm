@@ -43,11 +43,7 @@
 
 获 **北京理工大学大学生创业创新项目** 立项。
 
----
 
-## 作者
-
-赵添欢（北京理工大学）
 
 ---
 
@@ -136,11 +132,7 @@
 
 獲 **北京理工大學大學生創業創新項目** 立項。
 
----
 
-## 作者
-
-趙添歡（北京理工大學）
 ---
 
 ## 研究方法
@@ -229,11 +221,7 @@ Tie Ning's works function as a **"soft channel"** for cross-cultural dialogue, c
 
 Funded by the **Beijing Institute of Technology Innovation and Entrepreneurship Program for Undergraduates**.
 
----
 
-## Authors
-
-Zhao Tianhuan (Beijing Institute of Technology) 
 
 ---
 
@@ -324,11 +312,7 @@ Tie Nings Werke fungieren als **"weicher Kanal"** für den interkulturellen Dial
 
 Gefördert durch das **Innovations- und Entrepreneurship-Programm für Studierende des Beijing Institute of Technology**.
 
----
 
-## Autoren
-
-Zhao Tianhuan (Beijing Institute of Technology)
 
 ---
 
