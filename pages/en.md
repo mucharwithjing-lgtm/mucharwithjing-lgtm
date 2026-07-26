@@ -45,7 +45,7 @@ A comparative analysis of *Leutnant Gustl* and *Der kurze Brief zum langen Absch
 
 **Chinese Writer Tie Ning's Reception in Countries with Smaller Linguistic Communities**  
 Conference paper presented at the First Symposium on Overseas Dissemination of Chinese Culture and Mutual Learning of World Civilizations. BIT Innovation and Entrepreneurship Program.  
-[Details →](./tiening-overseas.md) (to be added)
+[Details →](../projects/tiening-overseas.md) 
 
 **The Concept of Love in Hannah Arendt's Letters**  
 Conference paper presented at the 5th National Undergraduate Forum "Word & World," Renmin University of China.  
