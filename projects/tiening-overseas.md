@@ -4,7 +4,10 @@
 -->
 <div align="center">
 
-# 铁凝作品在小语种国家的传播接受史及新路径探索 · Dissemination, Reception, and Pathways of Innovation: A Study of Tie Ning's Works in Less Commonly Taught Language Countries · Dissemination, Reception und neue Wege der Erforschung von Tie Nings Werken in Ländern mit kleineren Sprachgemeinschaften · 鐵凝作品在小語種國家的傳播接受史及新路徑探索
+# 铁凝作品在小语种国家的传播接受史及新路径探索 
+· Dissemination, Reception, and Pathways of Innovation: A Study of Tie Ning's Works in Less Commonly Taught Language Countries 
+· Dissemination, Reception und neue Wege der Erforschung von Tie Nings Werken in Ländern mit kleineren Sprachgemeinschaften 
+· 鐵凝作品在小語種國家的傳播接受史及新路徑探索
 
 ---
 
