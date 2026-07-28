@@ -1,0 +1,4 @@
+exclude:
+  - projects/
+  - creative/
+  - pages/
