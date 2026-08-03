@@ -52,7 +52,6 @@
 
 ## 作者
 
-赵添欢（北京理工大学）· 吴毓恒（伦敦帝国理工学院）
 
 ---
 
@@ -121,7 +120,6 @@
 
 ## 作者
 
-趙添歡（北京理工大學）· 吳毓恒（倫敦帝國理工學院）
 
 ---
 
@@ -190,7 +188,7 @@ Funded by the **Beijing Institute of Technology Innovation and Entrepreneurship 
 
 ## Authors
 
-Zhao Tianhuan (Beijing Institute of Technology) · Wu Yuheng (Imperial College London)
+
 
 ---
 
@@ -259,7 +257,7 @@ Gefördert durch den **Innovations- und Entrepreneurship-Wettbewerb für Studier
 
 ## Autoren
 
-Zhao Tianhuan (Beijing Institute of Technology) · Wu Yuheng (Imperial College London)
+
 
 ---
 
